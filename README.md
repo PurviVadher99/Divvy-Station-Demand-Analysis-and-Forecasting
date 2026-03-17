@@ -114,5 +114,3 @@ LSTM demonstrated the best balance between trend capture and forecasting accurac
 
 ---
 
-## 📂 Project Structure
-
